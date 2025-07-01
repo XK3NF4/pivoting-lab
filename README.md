@@ -30,6 +30,8 @@ chmod +x ./clear.sh
 sudo ./clear.sh
 ```
 ### Usuarios creados: 
-- bob:bob - Target1
-- alice:alice - Target2
-- sabu:sabu - Target3
+| **Usuario** | **Contraseña**     | **Host**                       |
+| :-------- | :------- | :-------------------------------- |
+| bob      | bob | 10.10.10.100 |
+| alice      | alice | 10.20.20.100 |
+| sabu      | sabu | 10.30.30.100 |
