@@ -29,3 +29,7 @@ Si deseas eliminar el laboratorio, ejecuta el siguiente script:
 chmod +x ./clear.sh 
 sudo ./clear.sh
 ```
+### Usuarios creados: 
+- bob:bob - Target1
+- alice:alice - Target2
+- sabu:sabu - Target3
