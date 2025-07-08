@@ -4,7 +4,8 @@ Este es un laboratorio de pivoting creado en Docker, que simula tres máquinas L
 
 A continuación, se muestra un diagrama de la red.
 
-![Imagen](./img/img.png)
+![img](https://github.com/user-attachments/assets/d76bbc48-917f-4c72-ba6f-598cbe913af0)
+
 
 
 ## Requerimientos
